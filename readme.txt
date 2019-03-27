@@ -6,4 +6,4 @@ num_238;
 Backtracking:
 num 46; 
 num 47 unfinished;
-num 52 unfinished;
+num 52;
